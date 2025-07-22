@@ -1,16 +1,30 @@
 # event_planner
 
-A new Flutter project.
+# 📅 Event Planner
 
-## Getting Started
+Event Planner is a simple and effective web-based application designed to help users organize and manage their events easily.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Interactive Calendar:**  
+  View, create, and manage events directly from a responsive calendar interface.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Real-time Notifications:**  
+  Get instant notifications for upcoming events or important updates.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **User-Friendly Interface:**  
+  Simple and intuitive layout designed for all users.
+
+- **Secure Data Handling:**  
+  Your event data stays protected and private.
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the Repository**
+git clone https://github.com/FreddieSuccessParkinson/Event_Planner.git
+
+Developer Name: Freddie Success Parkinson
+Department: Computer Science
+Id: 22/CS/TEC/110
